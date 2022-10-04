@@ -1,0 +1,12 @@
+CASE STUDY: POLLUTION ANALYSIS
+
+Central Government wants to analyze about the pollution from land transportation vehicles. So they've approached you and asked you to analyze the transport vehicles' 
+contribution to the pollution. They would like you to create an application which provides information about the vehicles in each state.
+
+People of the country may 2, 3, 4 wheelers for travelling daily. People can have one or more vehicles from different companies. These would like different prices for each 
+type of vehicle. Based on the vehicle type, the pollution ejecting value changes. Government will fix certain range for each type of vehicle. Pollution testing centres has to 
+verify the pollution of vehicle and record the same. The pollution testing centre has to advise for service of vehicle in certain duration of time for getting pollution certificate.
+
+Also, there is a limited time period (Maximum 15 years) for which a particular type of vehicle can be used before it becomes harmful for the environment. For recycled motors,
+this time period could be very less. These recycled vehicles also have exceptional pollution ejecting values which makes their life time lower. This parameter can also be taken
+into account while doing the analysis.
